@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="蓝牙耳机 降噪款 券后 199 元">
+  <defs>
+    <linearGradient id="bg3" gradientTransform="rotate(47)">
+      <stop offset="0%" stop-color="#16324F"/>
+      <stop offset="100%" stop-color="#3E7CA6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg3)"/>
+  <circle cx="732" cy="140" r="115" fill="#E6F0F7" opacity="0.14"/>
+  <polygon points="199,434 261,309 324,434" fill="#E6F0F7" opacity="0.19"/>
+  <rect x="388" y="315" width="216" height="147" rx="18" fill="#E6F0F7" opacity="0.16"/>
+  <rect width="800" height="450" fill="#0B1B2B" opacity="0.18"/>
+  <text x="64" y="86" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#DCE6F0" letter-spacing="1">广告 · 数码与家电</text>
+  <text x="64" y="190" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF"><tspan x="64" dy="0">蓝牙耳机 降噪款 券后 19</tspan><tspan x="64" dy="46">9 元</tspan></text>
+  <text x="64" y="392" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#DCE6F0" opacity="0.85">商家自主提交 · 平台人工审核</text>
+  <rect x="0" y="0" width="800" height="6" fill="#E6F0F7" opacity="0.5"/>
+</svg>

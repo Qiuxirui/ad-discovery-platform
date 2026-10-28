@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="家政保洁 4 小时 含擦玻璃">
+  <defs>
+    <linearGradient id="bg36" gradientTransform="rotate(50)">
+      <stop offset="0%" stop-color="#1F3A5F"/>
+      <stop offset="100%" stop-color="#2F6F7E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg36)"/>
+  <circle cx="555" cy="145" r="164" fill="#E8F1F3" opacity="0.17"/>
+  <polygon points="85,380 121,308 157,380" fill="#E8F1F3" opacity="0.22"/>
+  <rect x="467" y="290" width="194" height="90" rx="18" fill="#E8F1F3" opacity="0.19"/>
+  <rect width="800" height="450" fill="#0B1B2B" opacity="0.18"/>
+  <text x="64" y="86" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#DCE6F0" letter-spacing="1">广告 · 本地生活服务</text>
+  <text x="64" y="190" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF"><tspan x="64" dy="0">家政保洁 4 小时 含擦玻璃</tspan></text>
+  <text x="64" y="392" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#DCE6F0" opacity="0.85">商家自主提交 · 平台人工审核</text>
+  <rect x="0" y="0" width="800" height="6" fill="#E8F1F3" opacity="0.5"/>
+</svg>

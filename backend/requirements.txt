@@ -1,0 +1,12 @@
+# 后端运行依赖（全部已在 .venv 内，禁止联网安装）
+fastapi==0.162.0
+uvicorn==0.54.0
+starlette==1.10.0
+sqlalchemy==2.1.6
+pydantic==2.14.1
+pydantic-settings==2.16.1
+PyJWT==2.15.1
+passlib==1.7.4
+python-multipart==0.0.32
+pytest==9.1.1
+httpx==0.28.1

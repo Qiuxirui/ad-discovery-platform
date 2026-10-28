@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="新客首单立减 20 元">
+  <defs>
+    <linearGradient id="bg26" gradientTransform="rotate(68)">
+      <stop offset="0%" stop-color="#1F3A5F"/>
+      <stop offset="100%" stop-color="#4C7A9B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg26)"/>
+  <circle cx="573" cy="137" r="126" fill="#EAF0F6" opacity="0.17"/>
+  <polygon points="203,484 263,363 324,484" fill="#EAF0F6" opacity="0.22"/>
+  <rect x="333" y="290" width="162" height="127" rx="18" fill="#EAF0F6" opacity="0.19"/>
+  <rect width="800" height="450" fill="#0B1B2B" opacity="0.18"/>
+  <text x="64" y="86" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#DCE6F0" letter-spacing="1">广告 · 优惠与促销</text>
+  <text x="64" y="190" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF"><tspan x="64" dy="0">新客首单立减 20 元</tspan></text>
+  <text x="64" y="392" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#DCE6F0" opacity="0.85">商家自主提交 · 平台人工审核</text>
+  <rect x="0" y="0" width="800" height="6" fill="#EAF0F6" opacity="0.5"/>
+</svg>

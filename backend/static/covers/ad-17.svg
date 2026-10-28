@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="陶瓷餐具 12 件套 釉下彩 199">
+  <defs>
+    <linearGradient id="bg17" gradientTransform="rotate(55)">
+      <stop offset="0%" stop-color="#24425F"/>
+      <stop offset="100%" stop-color="#4F7F72"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg17)"/>
+  <circle cx="560" cy="180" r="92" fill="#E9F2EE" opacity="0.10"/>
+  <polygon points="203,452 256,346 309,452" fill="#E9F2EE" opacity="0.15"/>
+  <rect x="422" y="243" width="155" height="107" rx="18" fill="#E9F2EE" opacity="0.12"/>
+  <rect width="800" height="450" fill="#0B1B2B" opacity="0.18"/>
+  <text x="64" y="86" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#DCE6F0" letter-spacing="1">广告 · 家居与日用</text>
+  <text x="64" y="190" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF"><tspan x="64" dy="0">陶瓷餐具 12 件套 釉下彩</tspan><tspan x="64" dy="46"> 199</tspan></text>
+  <text x="64" y="392" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#DCE6F0" opacity="0.85">商家自主提交 · 平台人工审核</text>
+  <rect x="0" y="0" width="800" height="6" fill="#E9F2EE" opacity="0.5"/>
+</svg>

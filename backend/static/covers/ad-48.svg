@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="轻薄羽绒服 90 绒 短款 到手 399">
+  <defs>
+    <linearGradient id="bg48" gradientTransform="rotate(30)">
+      <stop offset="0%" stop-color="#2B3A5C"/>
+      <stop offset="100%" stop-color="#6C7F9E"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg48)"/>
+  <circle cx="715" cy="201" r="92" fill="#EEF0F7" opacity="0.17"/>
+  <polygon points="101,484 151,383 202,484" fill="#EEF0F7" opacity="0.22"/>
+  <rect x="442" y="261" width="210" height="111" rx="18" fill="#EEF0F7" opacity="0.19"/>
+  <rect width="800" height="450" fill="#0B1B2B" opacity="0.18"/>
+  <text x="64" y="86" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="20" fill="#DCE6F0" letter-spacing="1">广告 · 服饰与美妆</text>
+  <text x="64" y="190" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF"><tspan x="64" dy="0">轻薄羽绒服 90 绒 短款 </tspan><tspan x="64" dy="46">到手 399</tspan></text>
+  <text x="64" y="392" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" fill="#DCE6F0" opacity="0.85">商家自主提交 · 平台人工审核</text>
+  <rect x="0" y="0" width="800" height="6" fill="#EEF0F7" opacity="0.5"/>
+</svg>
